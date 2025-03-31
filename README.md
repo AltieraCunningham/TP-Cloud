@@ -1,1 +1,2 @@
-![[Images/bring-it-on.gif]]
+
+![Bring it on](./Images/bring-it-on.gif)
