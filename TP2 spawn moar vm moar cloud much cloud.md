@@ -657,7 +657,7 @@ alt@node2:~$ ip a
 ```yml
 provider "azurerm" {
   features {}
-  subscription_id = "NOT IN A MILLIION YEARQ"
+  subscription_id = "eae5cd03-388e-4052-8aa9-90a5958d32b8"
 }
 
 resource "azurerm_resource_group" "main" {
@@ -823,7 +823,7 @@ Scripts:
 ```yml
 provider "azurerm" {  
  features {}  
- subscription_id = "NOOOOOOO"  
+ subscription_id = "eae5cd03-388e-4052-8aa9-90a5958d32b8"  
 }  
 resource "azurerm_resource_group" "main" {  
  name     = "${var.prefix}-resources"  
